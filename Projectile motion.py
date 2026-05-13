@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import math 
 g = 9.8
 u = 20
-angle = 10
+angle = 45
 angle_rad = math.radians(angle)
 x_values = []
 y_values = []
